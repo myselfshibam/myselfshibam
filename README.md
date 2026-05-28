@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋❤️
 
 # 💫 About Me:
 💻 MCA Student | Aspiring Data Scientist<br>📊 Python • Machine Learning • Data Analysis • SQL<br>🚀 Building real-world projects & strengthening problem-solving skills<br>🌱 Currently exploring advanced ML concepts<br>⚡ Turning data into meaningful insights
